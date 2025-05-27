@@ -1,4 +1,4 @@
-module RNPilot
+module github.com/mahmudipur/RNPilot
 
 go 1.23.1
 

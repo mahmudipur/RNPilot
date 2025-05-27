@@ -1,12 +1,13 @@
 package cmd
 
 import (
-	"RNPilot/internal/config"
-	"RNPilot/internal/dotenv"
-	"RNPilot/internal/ui"
 	"fmt"
 	"os"
 	"path/filepath"
+
+	"github.com/mahmudipur/RNPilot/internal/config"
+	"github.com/mahmudipur/RNPilot/internal/dotenv"
+	"github.com/mahmudipur/RNPilot/internal/ui"
 
 	"github.com/spf13/cobra"
 )

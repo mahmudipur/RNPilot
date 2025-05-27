@@ -1,7 +1,6 @@
 package dotenv
 
 import (
-	"RNPilot/internal/config"
 	"bufio"
 	"encoding/json"
 	"fmt"
@@ -10,6 +9,8 @@ import (
 	"path/filepath"
 	"regexp"
 	"strings"
+
+	"github.com/mahmudipur/RNPilot/internal/config"
 )
 
 // DotenvFile represents the .env file operations

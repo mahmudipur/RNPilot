@@ -1,8 +1,9 @@
 package ui
 
 import (
-	"RNPilot/internal/utils"
 	"fmt"
+
+	"github.com/mahmudipur/RNPilot/internal/utils"
 
 	"github.com/AlecAivazis/survey/v2"
 )

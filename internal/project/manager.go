@@ -1,11 +1,12 @@
 package project
 
 import (
-	"RNPilot/internal/config"
 	"fmt"
 	"os"
 	"os/exec"
 	"path/filepath"
+
+	"github.com/mahmudipur/RNPilot/internal/config"
 )
 
 // CreateProject creates a React Native project based on the provided project type and name.

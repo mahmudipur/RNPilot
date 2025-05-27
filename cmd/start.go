@@ -1,9 +1,10 @@
 package cmd
 
 import (
-	"RNPilot/internal/project"
-	"RNPilot/internal/ui"
 	"fmt"
+
+	"github.com/mahmudipur/RNPilot/internal/project"
+	"github.com/mahmudipur/RNPilot/internal/ui"
 
 	"github.com/spf13/cobra"
 )
